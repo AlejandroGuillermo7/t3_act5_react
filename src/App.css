@@ -1,0 +1,14 @@
+.app {
+  text-align: center;
+  padding: 20px;
+}
+
+.app h1 {
+  font-size: 36px;
+  margin-bottom: 8px;
+}
+
+.app p {
+  font-size: 20px;
+  margin-bottom: 30px;
+}

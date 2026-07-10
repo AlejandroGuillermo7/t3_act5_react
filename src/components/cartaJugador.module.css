@@ -1,0 +1,22 @@
+.cartaJugador {
+  width: 220px;
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  padding: 16px;
+  text-align: center;
+  box-shadow: 0 2px 15px black;
+  background: white;
+
+}
+
+.cartaJugador img {
+  width: 100%;
+  height: 220px;
+  object-fit: cover;
+  object-position: top;
+  border-radius: 8px;
+}
+.cartaJugador p{
+  font-size: 30px;
+  padding: 0;
+}

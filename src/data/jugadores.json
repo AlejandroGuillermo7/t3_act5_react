@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "nombre": "Lionel Messi",
+    "equipo": "Argentina",
+    "posicion": "Delantero",
+    "foto": "/imagenes/messi.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Kylian Mbappé",
+    "equipo": "Francia",
+    "posicion": "Delantero",
+    "foto": "/imagenes/mbappe.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Jude Bellingham",
+    "equipo": "Inglaterra",
+    "posicion": "Mediocampista",
+    "foto": "/imagenes/belli.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Cristiano Ronaldo",
+    "equipo": "Portugal",
+    "posicion": "Delantero",
+    "foto": "/imagenes/cr7.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "Erling Haaland",
+    "equipo": "Noruega",
+    "posicion": "Delantero",
+    "foto": "/imagenes/haaland.jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "Achraf Hakimi",
+    "equipo": "Marruecos",
+    "posicion": "Defensa",
+    "foto": "/imagenes/hakimi.jpg"
+  },
+  {
+    "id": 7,
+    "nombre": "Robert Lewandowski",
+    "equipo": "Polonia",
+    "posicion": "Delantero",
+    "foto": "/imagenes/lewandowski.jpg"
+  },
+  {
+    "id": 8,
+    "nombre": "Neymar Jr.",
+    "equipo": "Brasil",
+    "posicion": "Delantero",
+    "foto": "/imagenes/neymar.jpg"
+  },
+  {
+    "id": 9,
+    "nombre": "Son Heung-min.",
+    "equipo": "Corea del Sur",
+    "posicion": "Delantero",
+    "foto": "/imagenes/son.jpg"
+  }
+]
