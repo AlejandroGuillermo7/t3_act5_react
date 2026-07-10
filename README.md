@@ -39,6 +39,7 @@ https://github.com/AlejandroGuillermo7/t3_act5_react
 
 **e) Enlace del proyecto desplegado en GitHub Pages**
 
+https://alejandroguillermo7.github.io/t3_act5_react/
 
 ---
 
